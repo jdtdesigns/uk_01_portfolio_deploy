@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uk_01_portfolio_deploy/static/css/main.29bcb0f4.css",
+    "main.js": "/uk_01_portfolio_deploy/static/js/main.7ea1e73e.js",
+    "index.html": "/uk_01_portfolio_deploy/index.html",
+    "main.29bcb0f4.css.map": "/uk_01_portfolio_deploy/static/css/main.29bcb0f4.css.map",
+    "main.7ea1e73e.js.map": "/uk_01_portfolio_deploy/static/js/main.7ea1e73e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bcb0f4.css",
+    "static/js/main.7ea1e73e.js"
+  ]
+}
